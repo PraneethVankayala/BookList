@@ -1,6 +1,5 @@
 # BookListing Application
-
-**Development**
+# Development
 
 A native Android app using Java for writing code.
 
