@@ -14,7 +14,7 @@ A native Android app using Java for writing code.
 ```
 git clone https://github.com/username/BookList.git
 ```
-***Setting up the Android Project***
+**Setting up the Android Project**
 
 1.Download the BookList project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it.
 
