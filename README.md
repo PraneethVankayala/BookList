@@ -1,4 +1,6 @@
 # BookListing Application
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Development
 
 A native Android app using Java for writing code.
