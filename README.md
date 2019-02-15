@@ -48,3 +48,9 @@ Glide [Docs](https://github.com/bumptech/glide)
 Google Books [Docs](https://developers.google.com/books/docs/v1/getting_started)
 
 # Screenshots
+
+# Build On
+
+- Android Studio
+
+- Ubuntu 18.04
