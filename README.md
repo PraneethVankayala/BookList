@@ -48,4 +48,3 @@ Glide [Docs](https://github.com/bumptech/glide)
 Google Books [Docs](https://developers.google.com/books/docs/v1/getting_started)
 
 # Screenshots
-/home/praneeth/Desktop/photo_2019-02-16_00-43-27.jpg
