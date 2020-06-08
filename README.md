@@ -20,7 +20,7 @@ git clone https://github.com/username/BookList.git
 
 2.Open Android Studio, you will see a Welcome to Android window. Under Quick Start, select Import Project (Eclipse ADT, Gradle, etc.)
 
-3.Navigate to the directory where you saved the BookList project, select the root folder of the project (the folder named "Quiz"), and hit OK. Android Studio should now begin building the project with Gradle
+3.Navigate to the directory where you saved the BookList project, select the root folder of the project (the folder named "BookList"), and hit OK. Android Studio should now begin building the project with Gradle
 
 4.Once this process is complete and Android Studio opens, check the Console for any build errors.
 
@@ -49,7 +49,13 @@ Glide [Docs](https://github.com/bumptech/glide)
 Google Books [Docs](https://developers.google.com/books/docs/v1/getting_started)
 
 # Screenshots
-
+<table border="0">
+  <tr>
+    <td><img src="(https://user-images.githubusercontent.com/40353347/84052823-b566ed00-a9ce-11ea-834b-c24a9a38f527.jpg" width="300"></td>
+      <td><img src="https://user-images.githubusercontent.com/40353347/84052820-b39d2980-a9ce-11ea-981b-b72330f34bdd.jpg" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/40353347/84052816-b13acf80-a9ce-11ea-8457-a617b655f372.jpg" width="300"></td>
+  </tr>
+</table>
 # Build On
 
 - Android Studio
