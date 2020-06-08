@@ -51,7 +51,7 @@ Google Books [Docs](https://developers.google.com/books/docs/v1/getting_started)
 # Screenshots
 <table border="0">
   <tr>
-    <td><img src="(https://user-images.githubusercontent.com/40353347/84052823-b566ed00-a9ce-11ea-834b-c24a9a38f527.jpg" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/40353347/84052823-b566ed00-a9ce-11ea-834b-c24a9a38f527.jpg" width="300"></td>
       <td><img src="https://user-images.githubusercontent.com/40353347/84052820-b39d2980-a9ce-11ea-981b-b72330f34bdd.jpg" width="300"></td>
     <td><img src="https://user-images.githubusercontent.com/40353347/84052816-b13acf80-a9ce-11ea-8457-a617b655f372.jpg" width="300"></td>
   </tr>
